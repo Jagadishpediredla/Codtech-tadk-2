@@ -23,3 +23,6 @@ By designing and simulating the FSM, we demonstrated the capability to implement
 
 Attachment:
 output:
+
+![images (2)](https://github.com/Jagadishpediredla/Codtech-tadk-2/assets/149489074/b60f529d-7b82-4d6f-811b-f6c179f3e9f8)
+
